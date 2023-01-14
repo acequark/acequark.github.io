@@ -1,17 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Supersymmetric black holes
+description: 
 importance: 1
-category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+This project focused on studying supersymmetric (SUSY) black holes at long times. The [short paper](https://arxiv.org/abs/2207.00407) gives a summary of the analysis. The [more technical paper](https://arxiv.org/abs/2207.00407) gives a detailed account of the project.
 
     ---
     layout: page
