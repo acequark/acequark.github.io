@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Liza Rozenberg
+title: about
 permalink: /
 subtitle:
 
@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>e-mail: <a href='#'>erozenberg@g.harvard.edu</a> </p>
+    <p>e-mail: erozenberg@g.harvard.edu </p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
