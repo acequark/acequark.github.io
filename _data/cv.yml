@@ -9,11 +9,11 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Theoretical Physics PhD
       institution: Harvard University, Cambridge, MA
       year: in progress
       description:
-        - title: Research advisor: Daniel Jafferis.
+        - title: Research advisor Daniel Jafferis.
         #- title: Courses taught:
           #contents:
             #- Sub-description 1.
