@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Supersymmetric black holes
 description: 
 importance: 1
