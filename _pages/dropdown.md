@@ -1,6 +1,6 @@
 ---
 layout: page
-title: submenus changed
+title: something
 nav: false
 nav_order: 6
 dropdown: true
