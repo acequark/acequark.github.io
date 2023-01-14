@@ -7,6 +7,12 @@ importance: 1
 
 This project focused on studying supersymmetric (SUSY) black holes at long times. The [short paper](https://arxiv.org/abs/2207.00407) gives a summary of the analysis. The [more technical paper](https://arxiv.org/abs/2207.00407) gives a detailed account of the project.
 
+<object data="http://acequark.github.io/short_paper.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http:acequark.github.io/short_paper.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http:acequark.github.io/short_paper.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
     ---
     layout: page
     title: project
