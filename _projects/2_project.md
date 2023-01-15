@@ -9,11 +9,6 @@ The goal of this project is to demonstrate that the difficulty of detecting Unru
 
 Project write-up: [PDF](/assets/pdf/Rozenberg_Liza_Fall_JP.pdf)
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+  
 
 
