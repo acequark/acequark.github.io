@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Unruh effect analogue in coupled harmonic oscillator systems
-description: a project with a background image
+description: 
 importance: 2
 ---
 
