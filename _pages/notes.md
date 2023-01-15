@@ -7,7 +7,8 @@ nav: true
 nav_order: 5
 ---
 
+---
 ## QFT
-[Weinberg-Witten theorem](/assets/pdf/witten-weinberg-thm-project.pdf)
+[The Weinberg-Witten theorem](/assets/pdf/witten-weinberg-thm-project.pdf)
 
 ---
