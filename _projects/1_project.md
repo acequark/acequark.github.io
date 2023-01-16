@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Supersymmetric black holes
-description:
+title: 
+description: Supersymmetric black holes
 importance: 1
 ---
 
