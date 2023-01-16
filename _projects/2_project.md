@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Unruh effect analogue in coupled harmonic oscillator systems
-description: 
+title: 
+description: Unruh effect analogue in coupled harmonic oscillator systems
+category: work
 importance: 2
 ---
 
