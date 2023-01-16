@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: _
 description: Unruh effect analogue in coupled harmonic oscillator systems
 category: work
 importance: 2
