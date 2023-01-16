@@ -2,7 +2,7 @@
 layout: page
 title:  
 description: Supersymmetric black holes
-category: work
+category: research
 importance: 1
 ---
 
