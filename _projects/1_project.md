@@ -11,7 +11,7 @@ This project focused on studying supersymmetric (SUSY) black holes at long times
 <div class="row">
      {% include figure.html path="assets/img/short_img.png" class="img-fluid rounded z-depth-1" %}
      {% include figure.html path="assets/img/long_img.png" class="img-fluid rounded z-depth-1" %}
-<\div>        
+</div>        
 
    
 
