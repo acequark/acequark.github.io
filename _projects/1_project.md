@@ -11,11 +11,11 @@ This project focused on studying supersymmetric (SUSY) black holes at long times
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <a href="https://arxiv.org/pdf/2207.00407.pdf">
-        <img src="assets/img/short_img.jpg" alt="Short paper" style="width:42px;height:42px;">
+        <img src="assets/img/short_img.png" alt="Short paper" style="width:42px;height:42px;">
         </a>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/long_img.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/long_img.png" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             [PDF](/assets/pdf/long_paper.pdf)   
         </div>
