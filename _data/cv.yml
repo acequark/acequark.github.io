@@ -24,6 +24,13 @@
         #- Description 1.
         #- Description 2.
 
+- title: Workshops & Conferences attended
+  type: time_table
+  contents:
+    - title: It From Qubit (Workshop on Spacetime and Quantum Information) 
+      institution: IAS
+      year: December 2022
+
 #- title: Experience
  # type: time_table
   #contents:
