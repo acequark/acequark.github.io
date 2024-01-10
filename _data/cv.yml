@@ -27,22 +27,22 @@
 - title: Conferences and workshops attended
   type: time_table
   contents:
-    - title: [It From Qubit 2022: Workshop on Spacetime and Quantum Information](https://www.ias.edu/sns/program-details-qubit-2022)
+    - title: <a href ="https://www.ias.edu/sns/program-details-qubit-2022">It From Qubit 2022: Workshop on Spacetime and Quantum Information</a>
       institution: IAS
       year: December 2022
-    - title: [Strings 2023](https://events.perimeterinstitute.ca/event/29/) 
+    - title: <a href="https://events.perimeterinstitute.ca/event/29/">Strings 2023</a> 
       institution: Perimeter Institute
       year: July 2023
-    - title: [It From Qubit 2023](https://events.perimeterinstitute.ca/event/43/) 
+    - title: <a href="https://events.perimeterinstitute.ca/event/43/">It From Qubit 2023</a> 
       institution: Perimeter Institute
       year: July 2023
-    - title: [Workshop on von Neumann algebras in Quantum Field Theory and Gravity](https://nyuad.my.salesforce-sites.com/NYEvents/apex/NYUEventRegistration?event=TzKgjsFAVm1wbnRWrb1HvQ_3D_3D) 
+    - title: <a href="https://nyuad.my.salesforce-sites.com/NYEvents/apex/NYUEventRegistration?event=TzKgjsFAVm1wbnRWrb1HvQ_3D_3D">Workshop on von Neumann algebras in Quantum Field Theory and Gravity</a> 
       institution: NYU Abu Dhabi Institute in New York
       year: August 2023
-    - title: [Towards the beginning of time: Cosmology at high energies](https://pcts.princeton.edu/events/2023/towards-beginning-time-cosmology-high-energies)
+    - title: <a href="https://pcts.princeton.edu/events/2023/towards-beginning-time-cosmology-high-energies">Towards the beginning of time: Cosmology at high energies</a>
       institution: PCTS at Princeton University
       date: November 2023
-    - title: [Workshop on Spacetime and Quantum Information](https://www.ias.edu/sns/program-details-qubit-2023)
+    - title: <a href="https://www.ias.edu/sns/program-details-qubit-2023">Workshop on Spacetime and Quantum Information</a>
       institution: IAS
       date: Decemeber 2023
     
