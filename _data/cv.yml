@@ -1,10 +1,10 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Liza Rozenberg
-    - name: Date of Birth
-      value: 09/09/2000
+#- title: General Information
+ # type: map
+  #contents:
+   # - name: Full Name
+      #value: Liza Rozenberg
+   # - name: Date of Birth
+     # value: 09/09/2000
 
 - title: Education
   type: time_table
@@ -30,10 +30,10 @@
     - title: [It From Qubit 2022: Workshop on Spacetime and Quantum Information](https://www.ias.edu/sns/program-details-qubit-2022)
       institution: IAS
       year: December 2022
-    - title: [Strings 2023](https://events.perimeterinstitute.ca/event/29/) [online]
+    - title: [Strings 2023](https://events.perimeterinstitute.ca/event/29/) 
       institution: Perimeter Institute
       year: July 2023
-    - title: [It From Qubit 2023](https://events.perimeterinstitute.ca/event/43/) [online]
+    - title: [It From Qubit 2023](https://events.perimeterinstitute.ca/event/43/) 
       institution: Perimeter Institute
       year: July 2023
     - title: [Workshop on von Neumann algebras in Quantum Field Theory and Gravity](https://nyuad.my.salesforce-sites.com/NYEvents/apex/NYUEventRegistration?event=TzKgjsFAVm1wbnRWrb1HvQ_3D_3D) 
