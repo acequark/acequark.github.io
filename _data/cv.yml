@@ -10,7 +10,7 @@
   type: time_table
   contents:
     - title: Theoretical Physics PhD
-      institution: Harvard University, Cambridge, MA
+      institution: Harvard University
       year: 2022-now
   
         #- title: Courses taught:
@@ -27,9 +27,25 @@
 - title: Conferences and workshops attended
   type: time_table
   contents:
-    - title: It From Qubit
+    - title: [It From Qubit 2022: Workshop on Spacetime and Quantum Information](https://www.ias.edu/sns/program-details-qubit-2022)
       institution: IAS
-      year: 2022
+      year: December 2022
+    - title: [Strings 2023](https://events.perimeterinstitute.ca/event/29/) [online]
+      institution: Perimeter Institute
+      year: July 2023
+    - title: [It From Qubit 2023](https://events.perimeterinstitute.ca/event/43/) [online]
+      institution: Perimeter Institute
+      year: July 2023
+    - title: [Workshop on von Neumann algebras in Quantum Field Theory and Gravity](https://nyuad.my.salesforce-    sites.com/NYEvents/apex/NYUEventRegistration?event=TzKgjsFAVm1wbnRWrb1HvQ_3D_3D) 
+      institution: NYU Abu Dhabi Institute in New York
+      year: August 2023
+    - title: [Towards the beginning of time: Cosmology at high energies](https://pcts.princeton.edu/events/2023/towards-beginning-time-cosmology-high-energies)
+      institution: PCTS at Princeton University
+      date: November 2023
+    - title: [Workshop on Spacetime and Quantum Information](https://www.ias.edu/sns/program-details-qubit-2023)
+      institution: IAS
+      date: Decemeber 2023
+    
 #- title: Experience
  # type: time_table
   #contents:
