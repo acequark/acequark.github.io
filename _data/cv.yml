@@ -24,6 +24,12 @@
         #- Description 1.
         #- Description 2.
 
+- title: Conferences and workshops attended
+  type: time_table
+  contents:
+    - title: It From Qubit
+      institution: IAS
+      year: 2022
 #- title: Experience
  # type: time_table
   #contents:
